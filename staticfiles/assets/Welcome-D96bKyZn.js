@@ -1,0 +1,1 @@
+import{p as o,t as i,a as n,f as p,s as c,c as a}from"./main-CAiwjvXv.js";var u=p(`<main class="svelte-1b390u2"><h1 class="svelte-1b390u2"> </h1> <p class="svelte-1b390u2">You're viewing this page with Django + Inertia.js + Svelte.</p></main>`);function f(t,s){let l=o(s,"username",8,"Guest");var e=u(),r=a(e),m=a(r);i(()=>c(m,`Welcome, ${l()??""}!`)),n(t,e)}export{f as default};

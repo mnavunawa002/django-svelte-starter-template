@@ -1,0 +1,29 @@
+# Ignore frontend build files
+frontend/dist
+frontend/node_modules
+frontend/package-lock.json
+frontend/package.json
+frontend/vite.config.js
+frontend/vite.config.ts
+frontend/vite.config.mjs
+frontend/vite.config.mts
+frontend/vite.config.mjs
+
+
+# Ignore venv
+venv/
+
+# Ignore .env
+.env
+
+# Ignore .DS_Store
+.DS_Store
+
+# Ignore .env.local
+.env.local
+
+# Ignore .env.development.local
+.env.development.local
+
+# Ignore .env.production.local
+.env.production.local
